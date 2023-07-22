@@ -20,7 +20,7 @@ I'm dedicated to building **innovative cybersecurity tools** that enhance digita
   </a>
 </p>
 
-## Pinned Project - NovaTools 🔧
+## 🔧 Pinned Project - NovaTools
 Fun side project I created using Python with the aim of filling the gaps of tools that don't exist yet on Windows.
 
 [![NovaClipboardManager](https://path-to-your-image.png)](https://github.com/your-username/secureguard)
