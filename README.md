@@ -2,7 +2,7 @@
 > Welcome to my GitHub! I'm passionate about cybersecurity, and I love sharing my knowledge through articles and tools.
 
 ## 📝 Check out my articles
-I regularly publish **captivating articles** on [Dev.to](https://dev.to/williambaptist) where I cover various **cybersecurity topics**, tips, and tricks.
+I regularly publish articles on [Dev.to](https://dev.to/williambaptist) where I cover various **cybersecurity topics**, tips, and tricks.
 
 ## 🛠️ Explore my Cybersecurity Tools
 I'm dedicated to building **innovative cybersecurity tools** that enhance digital safety and security. Check them out in my [**Repositories**](https://github.com/BaptistSec?tab=repositories)
