@@ -38,6 +38,6 @@ Feel free to reach out to me via email at **pentesting@skiff.com** for any **inq
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamsbaptist" height="40" width="40" />
   </a>
   <a href="https://twitter.com/BaptistSec" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BaptistSec" height="40" width="40" />
+    <img src="https://i.ibb.co/f0xkG83/twitter-x-logo-1024x512-116986111.jpg" alt="BaptistSec" height="40" width="40" />
   </a>
 </p>
