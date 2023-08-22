@@ -2,7 +2,7 @@
 > Welcome to my GitHub! I'm passionate about cybersecurity, and I love sharing my knowledge through articles and tools.
 
 ## 📝 Check out my articles
-I regularly publish articles on [Dev.to](https://dev.to/williambaptist) where I cover various **cybersecurity topics**, tips, and tricks.
+I regularly publish articles on [Dev.to](https://dev.to/baptistsec) where I cover various **cybersecurity topics**, tips, and tricks.
 
 ## 🛠️ Explore my Cybersecurity Tools
 I'm dedicated to building **innovative cybersecurity tools** that enhance digital safety and security. Check them out in my [**Repositories**](https://github.com/BaptistSec?tab=repositories)
@@ -31,7 +31,7 @@ Feel free to reach out to me via email at **pentesting@skiff.com** for any **inq
 
 ## 🌐 Links
 <p align="left">
-  <a href="https://dev.to/williambaptist" target="_blank">
+  <a href="https://dev.to/baptistsec" target="_blank">
     <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="williambaptist" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/williamsbaptist" target="_blank">
