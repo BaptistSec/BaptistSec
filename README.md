@@ -1,4 +1,4 @@
-Publishing articles on [Dev.to](https://dev.to/baptistsec) where I cover various **cybersecurity topics**, tips, and tricks.
+Publishing articles on [Dev.to](https://dev.to/baptistsec) where I cover a variety of **cybersecurity topics**
 
 **https://bazaar.abuse.ch/user/12618/**
 
